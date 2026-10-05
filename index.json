@@ -1,0 +1,35 @@
+{
+    "models": [
+        {
+            "name": "Brocchi 7K",
+            "filename": "Brocchi7k.onnx",
+            "author": "brocchi",
+            "description": "Model 7k Images, i think it's good"
+        },
+        {
+            "name": "Brocchi 7K +New",
+            "filename": "Brocchi7kNew.onnx",
+            "author": "brocchi",
+            "description": "+Update mengenali dan menambahkan thermal scope"
+        },
+        {
+            "name": "Brocchi 13K",
+            "filename": "Brocchi13k.onnx",
+            "author": "brocchi",
+            "description": "Ahh good"
+        },
+        {
+            "name": "Brocchi 15K",
+            "filename": "Brocchi15k.onnx",
+            "author": "brocchi",
+            "description": "Musuh auto becek :v"
+        }
+    ],
+    "configs": [
+        {
+            "name": "Bloodstrike",
+            "filename": "Belutlistrik.cfg",
+            "author": "Broc"
+        }
+    ]
+}
