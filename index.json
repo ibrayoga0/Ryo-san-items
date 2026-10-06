@@ -23,7 +23,13 @@
             "filename": "Brocchi15k.onnx",
             "author": "brocchi",
             "description": "Musuh auto becek :v"
-        }
+        },
+	{
+            "name": "Brocchi VLow",
+            "filename": "Brocchi320x.onnx",
+            "author": "brocchi",
+            "description": "versi lite powerfuel!"
+	}
     ],
     "configs": [
         {
