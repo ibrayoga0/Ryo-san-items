@@ -30,6 +30,12 @@
             "author": "brocchi",
             "description": "versi lite powerfuel!"
 	}
+	{
+            "name": "AIOv11",
+            "filename": "AIOv11.onnx",
+            "author": "DaDog240",
+            "description": "-"
+	}
     ],
     "configs": [
         {
