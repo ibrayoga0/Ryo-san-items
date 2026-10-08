@@ -35,6 +35,12 @@
             "filename": "AIOv11.onnx",
             "author": "DaDog240",
             "description": "-"
+	},
+	{
+            "name": "BS-ByBihibihi",
+            "filename": "BS-Bihibihi.onnx",
+            "author": "Bihibihi",
+            "description": "700 Image"
 	}
     ],
     "configs": [
